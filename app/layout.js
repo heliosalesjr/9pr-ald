@@ -2,6 +2,7 @@ import { ClerkProvider } from "@clerk/nextjs"
 import { Inter } from "next/font/google"
 import "./globals.css"
 import Navbar from "./components/Navbar"
+import { Toaster } from "react-hot-toast";
 
 const inter = Inter({ subsets: ["latin"] })
 
@@ -16,6 +17,31 @@ export default function RootLayout({ children }) {
       <html lang="pt-BR">
         <body className={`${inter.className} dark:bg-medium dark:text-white`}>
           <Navbar />
+          <Toaster
+          position="top-center"
+          toastOptions={{
+            duration: 5000,
+            style: {
+              background: "#333",
+              color: "#fff",
+              padding: "12px 20px",
+              borderRadius: "8px",
+              fontSize: "16px",
+            },
+            success: {
+              iconTheme: {
+                primary: "#4ade80",
+                secondary: "#1f2937",
+              },
+            },
+            error: {
+              iconTheme: {
+                primary: "#f87171",
+                secondary: "#1f2937",
+              },
+            },
+          }}
+        />
           <main className="min-h-screen">{children}</main>
         </body>
       </html>
