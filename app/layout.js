@@ -3,6 +3,7 @@ import { Inter } from "next/font/google"
 import "./globals.css"
 import Navbar from "./components/Navbar"
 import { Toaster } from "react-hot-toast";
+import { ptBR } from '@clerk/localizations'
 
 const inter = Inter({ subsets: ["latin"] })
 
@@ -13,7 +14,7 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <ClerkProvider>
+    <ClerkProvider localization={ptBR}>
       <html lang="pt-BR">
         <body className={`${inter.className} dark:bg-medium dark:text-white`}>
           <Navbar />
