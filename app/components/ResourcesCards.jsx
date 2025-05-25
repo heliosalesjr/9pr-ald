@@ -19,7 +19,7 @@ const cards = [
 
 export default function ResourceCards() {
   return (
-    <div className="p-4 md:p-8 z-10">
+    <div className="p-4 md:p-8 z-10 pt-16 md:pt-0">
       {/* Título centralizado com efeito de hover */}
       <div className="text-center mb-8">
         <h1 className="text-3xl md:text-5xl font-bold text-white dark:text-white transition duration-300 hover:text-zinc-200 pt-32 md:pt-4 ">

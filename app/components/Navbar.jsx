@@ -24,9 +24,9 @@ const Navbar = () => {
               afterSignOutUrl="/"
               appearance={{
                 elements: {
-                  avatarBox: "w-16 h-16",
-                  userButtonAvatarBox: "w-16 h-16",
-                  userButtonAvatarImage: "w-16 h-16",
+                  avatarBox: "w-12 h-12",
+                  userButtonAvatarBox: "w-12 h-12",
+                  userButtonAvatarImage: "w-12 h-12",
                 },
               }}
             />
