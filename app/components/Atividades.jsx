@@ -7,7 +7,7 @@ const chapters = [
   {
     title: 'Capítulo 1: Como o dinheiro ajuda a alcançar sonhos?',
     activities: [
-      { title: 'Atividade Exclusiva Digital - Capítulo 1', url: 'https://docs.google.com/forms/d/e/1FAIpQLSdVr4nnP1RLbF8wzemNAFOcIvqvrD0BTUJOuGHvCzW4IXmI4A/viewform' },
+      { title: 'Atividade Exclusiva Digital - Capítulo 1', url: 'https://docs.google.com/forms/d/1iV6iZzHYEKHkYQH_F2DBK5hcRzJClEPvR7gDhY0YzUc/copy' },
       { title: 'Atividade 1.1', url: 'https://forms.gle/QDeQHZ3DTmrZvPTM6' },
       { title: 'Atividade 1.2', url: 'https://forms.gle/14sPqBEzY289seyM7' },
       { title: 'Atividade 1.3', url: 'https://forms.gle/QwXNwrjWV8yp1a2M6' },

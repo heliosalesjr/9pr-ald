@@ -29,12 +29,12 @@ const BooksCard = () => {
               Explore o conteúdo completo com orientações e atividades planejadas para o educador.
             </p>
             <a
-              href="https://www.flipsnack.com/7E8DB9BBDC9/ajustes_28fev_ald_educador_9/full-view.html"
+              href="https://classroom.google.com/u/1/w/NjkxNjE2MjM0Njkw/t/all"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block bg-yellow-800 hover:bg-yellow-800 text-white font-semibold py-2 px-6 rounded-lg transition duration-300"
             >
-              Ver Caderno
+              Ver Caderno no Google Sala de Aula
             </a>
           </div>
 
