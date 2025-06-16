@@ -5,147 +5,146 @@ import { ChevronDown } from 'lucide-react';
 
 const chapters = [
   {
-    title: 'Capítulo 1: Como o dinheiro ajuda a alcançar sonhos?',
-    activities: [
-      { title: 'Atividade Exclusiva Digital - Capítulo 1', url: 'https://docs.google.com/forms/d/1iV6iZzHYEKHkYQH_F2DBK5hcRzJClEPvR7gDhY0YzUc/copy' },
-      { title: 'Atividade 1.1', url: 'https://forms.gle/QDeQHZ3DTmrZvPTM6' },
-      { title: 'Atividade 1.2', url: 'https://forms.gle/14sPqBEzY289seyM7' },
-      { title: 'Atividade 1.3', url: 'https://forms.gle/QwXNwrjWV8yp1a2M6' },
-      { title: 'Atividade 1.4', url: 'https://forms.gle/poEPefCsq5SKUroj6' },
-      { title: 'Atividade 1.5', url: 'https://forms.gle/HeHbVMR7faz7bAZE8' },
-      { title: 'Atividade 1.6', url: 'https://forms.gle/v5DRQRESv1moFQaE7' },
-      { title: 'Atividade 1.7', url: 'https://forms.gle/CPumZomZm1V2r5PQ6' },
-      { title: 'Exercícios do Capítulo 1', url: 'https://docs.google.com/forms/d/e/1FAIpQLSc2TiU-ILiHWyl9dI7filY2Ux4DOzeEpgXkin1iIC2_h9YEHQ/viewform' },
-    ],
+    "title": "Capítulo 1: Como o dinheiro ajuda a alcançar sonhos?",
+    "activities": [
+      { "title": "Atividade Extra de Nivelamento - Capítulo 1", "url": "https://docs.google.com/forms/d/1iV6iZzHYEKHkYQH_F2DBK5hcRzJClEPvR7gDhY0YzUc/copy" },
+      { "title": "Atividade 1.1", "url": "https://docs.google.com/forms/d/1TXvlZVs4vMbxRJjwD9-at2PhnfcbA9PXOj0I8CCbCLs/copy" },
+      { "title": "Atividade 1.2", "url": "https://docs.google.com/forms/d/1YzcdDHQtg2Vn7KxyNavTQG8GDxU4M7hxJ69s0KssoSI/copy" },
+      { "title": "Atividade 1.3", "url": "https://docs.google.com/forms/d/13Ohv3b1ApkX-PMvFNVDT_0YOWqnpwWb3iAmes8pYKXI/copy" },
+      { "title": "Atividade 1.4", "url": "https://docs.google.com/forms/d/1Kvpy23JbYDCqtqQSntT0SLe7TJ_jaMus4GYZMu_3nUw/copy" },
+      { "title": "Atividade 1.5", "url": "https://docs.google.com/forms/d/1XFZL2kc6OjjO77FqpGfv6ZLo9P3jRCjZ8s6QPT7V5x8/copy" },
+      { "title": "Atividade 1.6", "url": "https://docs.google.com/forms/d/1APPhOFYkWzBsmLb10qIvKcupCIPCbl8c_eEqt6yb4fo/copy" },
+      { "title": "Atividade 1.7", "url": "https://docs.google.com/forms/d/10T6CZ5QrmGzNKrfcUB6oHmnxqf_XyuTwoHc0BkRr948/copy" },
+      { "title": "Exercícios do Capítulo 1", "url": "https://docs.google.com/forms/d/1uAyOaG6-mCic3wIB3d3QdPmdVF9HXlUX5P6hl1rcUp4/copy" }
+    ]
   },
   {
-    title: 'Capítulo 2: Futuro, aqui vou eu!',
-    activities: [
-      { title: 'Atividade Exclusiva Digital - Capítulo 2', url: 'https://docs.google.com/forms/d/e/1FAIpQLSdB7fe9dGQdX-QLs5EOPtI4jq-e3Zj_aITMytdNRl4lbfrf_w/viewform' },
-      { title: 'Atividade 2.1', url: 'https://forms.gle/Kq2984ggon9vn1ao6' },
-      { title: 'Atividade 2.2', url: 'https://forms.gle/YUTvGfM9kFfB8Bcs7' },
-      { title: 'Atividade 2.3', url: 'https://forms.gle/oWhinNoFUrKCasbp8' },
-      { title: 'Atividade 2.4', url: 'https://forms.gle/VNEqJWovaZgMrHM1A' },
-      { title: 'Exercícios do Capítulo 2', url: 'https://docs.google.com/forms/d/e/1FAIpQLSejNQQ7Ypdq49fz_EopXRpI2l4OBtjUwMriITjRtROYN8pFuA/viewform' },
-    ],
+    "title": "Capítulo 2: Futuro, aqui vou eu!",
+    "activities": [
+      { "title": "Atividade Extra de Nivelamento - Capítulo 2", "url": "https://docs.google.com/forms/d/1MI7HaUcPe7Tur5zoDNLHMqRdZXczgRDr9GRe7wmidGY/copy" },
+      { "title": "Atividade 2.1", "url": "https://docs.google.com/forms/d/1BRen0Twi_lEdf9RKSU7yWlsKDakl5Ey22zZt7Dx6nCQ/copy" },
+      { "title": "Atividade 2.2", "url": "https://docs.google.com/forms/d/1L3PNIKge-L79BGEbRjBBkkMCxBihzvnC_pvDzIXE8OI/copy" },
+      { "title": "Atividade 2.3", "url": "https://docs.google.com/forms/d/1Z9Y-PmrBHLxUOaILuc_8KKrGb5FexPWfIjh9BVCQfis/copy" },
+      { "title": "Atividade 2.4", "url": "https://docs.google.com/forms/d/1-yihmRjt_P7IuMkPjfjubTrfzfmyyot29p7IvFQvhNQ/copy" },
+      { "title": "Exercícios do Capítulo 2", "url": "https://docs.google.com/forms/d/1HOYLwV8GfbXK9W0atYCrNFeogxvEbTo0-fpzOAUxWbA/copy" }
+    ]
   },
   {
-    title: 'Capítulo 3: O que quero? Do que preciso?',
-    activities: [
-      { title: 'Atividade Exclusiva Digital - Capítulo 3', url: 'https://docs.google.com/forms/d/e/1FAIpQLSeB0jYBoXwR_whorGstfIhYVZ8e9yhhxiM5nZ4c5F8a-HWQzQ/viewform' },
-      { title: 'Atividade 3.1', url: 'https://forms.gle/xJEkBGeecEUWaF1Z9' },
-      { title: 'Atividade 3.2', url: 'https://forms.gle/F87N4XG1NxShGVGN7' },
-      { title: 'Atividade 3.3', url: 'https://forms.gle/svzwHogeXc1sVweE9' },
-      { title: 'Atividade 3.4', url: 'https://forms.gle/Qfsx5qTS634sHmmK9' },
-      { title: 'Exercícios do Capítulo 3', url: 'https://docs.google.com/forms/d/e/1FAIpQLScxOmex6qHFAFVm-Bi63xJjQWgP8kAsZ9i1pZ9YiCvIW04X3A/viewform' },
-    ],
+    "title": "Capítulo 3: O que quero? Do que preciso?",
+    "activities": [
+      { "title": "Atividade Extra de Nivelamento - Capítulo 3", "url": "https://docs.google.com/forms/d/1HYkwb--ImaReAsUcmc92VGHGgoLrXYOjeFZ5eUvAl0k/copy" },
+      { "title": "Atividade 3.1", "url": "https://docs.google.com/forms/d/1qBA-mFhRQ7UinCmef7Sa2rljWJX4fzq-1vMvD2AoWpo/copy" },
+      { "title": "Atividade 3.2", "url": "https://docs.google.com/forms/d/1XqIblvP1qigSf7zRcO7m2Ej1dD4UYv_U4KMmbrT1mL4/copy" },
+      { "title": "Atividade 3.3", "url": "https://docs.google.com/forms/d/1mZpA9YwkLi372hJJc928nfLIsfHTDYd09QWM9PMrCpM/copy" },
+      { "title": "Atividade 3.4", "url": "https://docs.google.com/forms/d/1Yz_1sOuBOT52FgjWHn2obvnMemVId7vC-VgLYcjntRQ/copy" },
+      { "title": "Exercícios do Capítulo 3", "url": "https://docs.google.com/forms/d/1E6156z4l8iAM80b7NXR9hLOh760SF0cf_IJncXETX5k/copy" }
+    ]
   },
   {
-    title: 'Capítulo 4: O que ganho e o que gasto',
-    activities: [
-      { title: 'Atividade Exclusiva Digital - Capítulo 4', url: 'https://docs.google.com/forms/d/e/1FAIpQLScMoRR8plPQGMKU8G2yxXwJxOlwLoLs_X3HiYfvc4fT7AffxA/viewform' },
-      { title: 'Atividade 4.1', url: 'https://forms.gle/zbrVjPefRWvXV3se6' },
-      { title: 'Atividade 4.2', url: 'https://forms.gle/tmp6Pi9QTEvt44p16' },
-      { title: 'Atividade 4.3', url: 'https://forms.gle/yM1JyXS4DPh84HXh8' },
-      { title: 'Atividade 4.4', url: 'https://forms.gle/rZp9TFCovyXzz3wr8' },
-      { title: 'Atividade 4.5', url: 'https://forms.gle/vUthq1Shs8DiZpcT6' },
-      { title: 'Exercícios do Capítulo 4', url: 'https://docs.google.com/forms/d/e/1FAIpQLScqiPfcH-7bi8Jp9d8m3Wjd95T7zES21fB62LZMgz-y4j16Tg/viewform' },
-    ],
+    "title": "Capítulo 4: O que ganho e o que gasto",
+    "activities": [
+      { "title": "Atividade Extra de Nivelamento - Capítulo 4", "url": "https://docs.google.com/forms/d/1Q1NYo8dA6vwOV-V38owULsLduJXID3bbxdvusVOSbxY/copy" },
+      { "title": "Atividade 4.1", "url": "https://docs.google.com/forms/d/1fzDmAW76PtmVUSFu7SwoIiTXgzIBgISA52sUgfNwbTo/copy" },
+      { "title": "Atividade 4.2", "url": "https://docs.google.com/forms/d/1L4t1yUYBOVvggvZSOKAlbA4DzhSM6T6BP_nMjyG397E/copy" },
+      { "title": "Atividade 4.3", "url": "https://docs.google.com/forms/d/1XGSJJJYpTwsXWtBC2W_OEZ9zVeSQ779z7t7cHy1DTqU/copy" },
+      { "title": "Atividade 4.4", "url": "https://docs.google.com/forms/d/1qTm7VHEkajLKZnWXDgW8bAjo-QA4NQBuS_hdUyd7B_g/copy" },
+      { "title": "Atividade 4.5", "url": "https://docs.google.com/forms/d/1pjnkJQcbJNqYmPo5crK4Un1YmYpNTZMTCSVS9mcAG5I/copy" },
+      { "title": "Exercícios do Capítulo 4", "url": "https://docs.google.com/forms/d/1b1lONPvIYhBPF6psjBk6htsHTCN0yBFj44IpQBf_0jU/copy" }
+    ]
   },
   {
-    title: 'Capítulo 5: Pensar antes para consumir melhor',
-    activities: [
-      { title: 'Atividade Exclusiva Digital - Capítulo 5', url: 'https://docs.google.com/forms/d/e/1FAIpQLSdjGYzUgVuw7hH0gnZhihIiq22ugrD5D3ed60SyFw7t5bM1vQ/viewform' },
-      { title: 'Atividade 5.1', url: 'https://forms.gle/5H4JTPTQvSipuDgk6' },
-      { title: 'Atividade 5.2', url: 'https://forms.gle/vRTDQs1TEpYowpSq9' },
-      { title: 'Atividade 5.3', url: 'https://forms.gle/HYWxfyZjAjHj3Ha48' },
-      { title: 'Atividade 5.4', url: 'https://forms.gle/mGiFNQN8XYxp4JuR8' },
-      { title: 'Exercícios do Capítulo 5', url: 'https://docs.google.com/forms/d/e/1FAIpQLSf8Fw64yyEiq0DW323NCyudUMwkRTCq0A50to3TKbvrgo6iyg/viewform' },
-    ],
+    "title": "Capítulo 5: Pensar antes para consumir melhor",
+    "activities": [
+      { "title": "Atividade Extra de Nivelamento - Capítulo 5", "url": "https://docs.google.com/forms/d/1DuUM-wWYzTyGxdFwV0p5hgP9LUiW5b5OAPUTSyKO5tE/copy" },
+      { "title": "Atividade 5.1", "url": "https://docs.google.com/forms/d/1u_DIZpBnawxuprSiy7ZTKYEnV3AHlsTMoGEeMHjJ-0Y/copy" },
+      { "title": "Atividade 5.2", "url": "https://docs.google.com/forms/d/10vPN8himz5cbiuHwHcH5cSIOXpz1DANauB1E9B_D3ik/copy" },
+      { "title": "Atividade 5.3", "url": "https://docs.google.com/forms/d/1AHxImPYJcABu28qspyrk-8hVR7PiecxIQxcSmrE4XWg/copy" },
+      { "title": "Atividade 5.4", "url": "https://docs.google.com/forms/d/1P0tZ1IZNWNHBUWYp1x1HkUhyn31mIvV5KrjhAIONUj4/copy" },
+      { "title": "Exercícios do Capítulo 5", "url": "https://docs.google.com/forms/d/1mXSt0fS2qKQBCjl31woAgIpP1KPmxNcCe6KaLZSNY1Y/copy" }
+    ]
   },
   {
-    title: 'Capítulo 6: O preço do dinheiro',
-    activities: [
-      { title: 'Atividade Exclusiva Digital - Capítulo 6', url: 'https://docs.google.com/forms/d/e/1FAIpQLScrdeJYBYvuhEn7MYFg5tE0oCcmH5loAiPymjPBM496jH_uNA/viewform' },
-      { title: 'Atividade 6.1', url: 'https://forms.gle/fgSPhyWaef7PjauBA' },
-      { title: 'Atividade 6.2', url: 'https://forms.gle/WKkFV53DdWVz5y1V7' },
-      { title: 'Exercícios do Capítulo 6', url: 'https://docs.google.com/forms/d/e/1FAIpQLSdvO5I-64EiEQeCI_jQblnX-bcgdLqqwIGtbUHSB3nkU5PWUA/viewform' },
-    ],
+    "title": "Capítulo 6: O preço do dinheiro",
+    "activities": [
+      { "title": "Atividade Extra de Nivelamento - Capítulo 6", "url": "https://docs.google.com/forms/d/14B8SzTvyjNznxx2HUBP0aIxKEEoXuJWbgCL1owa3kI8/copy" },
+      { "title": "Atividade 6.1", "url": "https://docs.google.com/forms/d/1I-AaC0JMdBs6xJFbQWTtErqz-HjIYvHhmSW09PGoRCY/copy" },
+      { "title": "Atividade 6.2", "url": "https://docs.google.com/forms/d/1THJOYRTzuSAoJhfRTC4epKyoaOamcODTX6UrJQBKtGo/copy" },
+      { "title": "Exercícios do Capítulo 6", "url": "https://docs.google.com/forms/d/163rhDKjuN6AQzQm_IxT9Bz5byfmDm8k_8nLKhR0YXXc/copy" }
+    ]
   },
   {
-    title: 'Capítulo 7: Fazendo o dinheiro render',
-    activities: [
-      { title: 'Atividade Exclusiva Digital - Capítulo 7', url: 'https://docs.google.com/forms/d/e/1FAIpQLSd8Mt-5rWedzmjeoYYwG6-PeNPqnWe6hTNItE1BuDvbaxAhJg/viewform' },
-      { title: 'Atividade 7.1', url: 'https://forms.gle/oeJnGNE9iPME9n8J9' },
-      { title: 'Atividade 7.2', url: 'https://forms.gle/2d5DWifz8E1eqAG27' },
-      { title: 'Atividade 7.3', url: 'https://forms.gle/iYPzv9LB9abCFVTn9' },
-      { title: 'Atividade 7.4', url: 'https://forms.gle/YPAyfd94TKVJHPLQ8' },
-      { title: 'Exercícios do Capítulo 7', url: 'https://docs.google.com/forms/d/e/1FAIpQLSeNWJA5P_wEIxgO69Jjjc1TspXOw_7Q0-gACVEn3p5egreQrw/viewform' },
-    ],
-  },
-
-  {
-    title: 'Capítulo 8: O que quero ser no futuro',
-    activities: [
-      { title: 'Atividade Exclusiva Digital - Capítulo 8', url: 'https://docs.google.com/forms/d/e/1FAIpQLSdvKnAvQMinecJb5w3dLll7WK00tCd9_0Xm1WJurvyNulDPpw/viewform' },
-      { title: 'Atividade 8.1', url: 'https://forms.gle/N6Kda3hzsZArzmWf9' },
-      { title: 'Atividade 8.2', url: 'https://forms.gle/J9wrPiesviuiuAHT9' },
-      { title: 'Atividade 8.3', url: 'https://forms.gle/3hSnkVUufX2CaJ536' },
-      { title: 'Exercícios do Capítulo 8', url: 'https://docs.google.com/forms/d/e/1FAIpQLSd_M8_gUQChrLuYBiDzZuwgsUt9sVa8kq1RbJOS10gkkdanDg/viewform' },
-    ],
+    "title": "Capítulo 7: Fazendo o dinheiro render",
+    "activities": [
+      { "title": "Atividade Extra de Nivelamento - Capítulo 7", "url": "https://docs.google.com/forms/d/1d-Xopscsxq85B8VOHNXNSGPI0kcCo2QypXEfmYhoeec/copy" },
+      { "title": "Atividade 7.1", "url": "https://docs.google.com/forms/d/1iU7dOZvA5kiIITWrJNcCLySKzkb8IwDyPg-IU4qEj1w/copy" },
+      { "title": "Atividade 7.2", "url": "https://docs.google.com/forms/d/1puSHzrCAq9YOT9BnElFenaKJvvRfpHt6sAOZeJlWYS0/copy" },
+      { "title": "Atividade 7.3", "url": "https://docs.google.com/forms/d/19BaqMBYIUryyrNJHL1w14zYGmRdW3FHhJDtKI4eeuBQ/copy" },
+      { "title": "Atividade 7.4", "url": "https://docs.google.com/forms/d/1w3cCpFizc6095NSjiWU2ahoOytwboeIoYAjoFzH7Oss/copy" },
+      { "title": "Exercícios do Capítulo 7", "url": "https://docs.google.com/forms/d/1649WmBb4vemhjgTiTG-vUwHychTKkm_7Hiyp3QG3DGY/copy" }
+    ]
   },
   {
-    title: 'Capítulo 9: Posso trabalhar enquanto estudo?',
-    activities: [
-      { title: 'Atividade Exclusiva Digital - Capítulo 9', url: 'https://docs.google.com/forms/d/e/1FAIpQLSe2z2jtBwcowwfMXTWekFQZqvCMFLW03fDzb-34fqYy2B-d8w/viewform' },
-      { title: 'Atividade 9.1', url: 'https://forms.gle/WtR3zwzzipJZKg9n8' },
-      { title: 'Atividade 9.2', url: 'https://forms.gle/Zk9eBtMWDx2dePzk8' },
-      { title: 'Atividade 9.3', url: 'https://forms.gle/tj4aXdn1UN7m6yTd8' },
-      { title: 'Atividade 9.4', url: 'https://forms.gle/DZfk36VyJCfzakUr5' },
-      { title: 'Atividade 9.5', url: 'https://forms.gle/MtBqKkCwJvbDdawW7' },
-      { title: 'Atividade 9.6', url: 'https://forms.gle/VDqpqHB71ZJaixsf8' },
-      { title: 'Atividade 9.7', url: 'https://forms.gle/bpHpbjqditW84skA6' },
-      { title: 'Exercícios do Capítulo 9', url: 'https://docs.google.com/forms/d/e/1FAIpQLSfkXio9eAZHOtKcWI-7MNcmFK1CaiSBJeNPajgxt4SX0Ocplw/viewform' },
-    ],
+    "title": "Capítulo 8: O que quero ser no futuro",
+    "activities": [
+      { "title": "Atividade Extra de Nivelamento - Capítulo 8", "url": "https://docs.google.com/forms/d/1g_cYp-zbATcRcD7e-hwFCYfUlZ89pVcL0mDYM0_vSmI/copy" },
+      { "title": "Atividade 8.1", "url": "https://docs.google.com/forms/d/1oYrRZhd2ZRvQcvd7285jtdJ5nDyMKFbF3QFirbtimQE/copy" },
+      { "title": "Atividade 8.2", "url": "https://docs.google.com/forms/d/1hRJAG8L0_P4_0bvMqzyeHsuXCL2Ci-hxlEchtGfZGZg/copy" },
+      { "title": "Atividade 8.3", "url": "https://docs.google.com/forms/d/1ajRAHZLKSsIyKVzkjVcmRc-eCcPfpGJMlP2BI_7Xuzw/copy" },
+      { "title": "Exercícios do Capítulo 8", "url": "https://docs.google.com/forms/d/1Zf6MioTiqgiEO_HMVkGiG1bCInbtLr9ywrJ36JAJOek/copy" }
+    ]
   },
   {
-    title: 'Capítulo 10: Para onde foi meu dinheiro?',
-    activities: [
-      { title: 'Atividade Exclusiva Digital - Capítulo 10', url: 'https://docs.google.com/forms/d/e/1FAIpQLSfQWZgtaHvjYlT9vE5FNfmNI-gvVcvtpJlasGy67ah67wMVxw/viewform' },
-      { title: 'Atividade 10.1', url: 'https://forms.gle/WvWsq1xmfkR2L3qr7' },
-      { title: 'Atividade 10.2', url: 'https://forms.gle/cqgTMZwdHoXVYrVG6' },
-      { title: 'Atividade 10.3', url: 'https://forms.gle/CmNazrKQTo6BV5qq7' },
-      { title: 'Atividade 10.4', url: 'https://forms.gle/d4NHrgS9fuDh2uNdA' },
-      { title: 'Atividade 10.5', url: 'https://forms.gle/7vQZpnR48UQM9N5y5' },
-      { title: 'Exercícios do Capítulo 10', url: 'https://docs.google.com/forms/d/e/1FAIpQLSfmZ-QpnNAkWOPL5J_HxoXC7_vUuq5XPc7q3_nJEIyqB0SWKw/viewform' },
-    ],
+    "title": "Capítulo 9: Posso trabalhar enquanto estudo?",
+    "activities": [
+      { "title": "Atividade Extra de Nivelamento - Capítulo 9", "url": "https://docs.google.com/forms/d/1xZzB0JSv1tly2h2-oXKU-v7uqJssykcJeT1Gt_ad3VU/copy" },
+      { "title": "Atividade 9.1", "url": "https://docs.google.com/forms/d/1Ae0PrcLYCfEz1n1ogOxFhw6-envOf1OwcQ-bhb4b000/copy" },
+      { "title": "Atividade 9.2", "url": "https://docs.google.com/forms/d/14x6YSOHhTaeBzXlS-BIMwdtNHfv7MJf8pW5gtqUd61w/copy" },
+      { "title": "Atividade 9.3", "url": "https://docs.google.com/forms/d/1i7VvXAZPPnpe6H2KLbDbVQXF_TGT6RlqOMcPWC9aR5c/copy" },
+      { "title": "Atividade 9.4", "url": "https://docs.google.com/forms/d/1ybqB5KggN8RHstCaJ3dqd2LIcp6dczYibiQnag1IW0s/copy" },
+      { "title": "Atividade 9.5", "url": "https://docs.google.com/forms/d/1sMBzfTkqMgQrYp2pfv5rqkmSHV8GHEOFYpxjX41ATS8/copy" },
+      { "title": "Atividade 9.6", "url": "https://docs.google.com/forms/d/1XmN2sSw7RGvSPCkCnsX_fNgmmkkhqnOKE6anaXzEViA/copy" },
+      { "title": "Atividade 9.7", "url": "https://docs.google.com/forms/d/1OhlitxXtFvcBy8NkOQ0Yh8qpYPzx9n_cd-vUB7LiXDQ/copy" },
+      { "title": "Exercícios do Capítulo 9", "url": "https://docs.google.com/forms/d/1x7NWdCD0h6cEnoRCgnqNH9vn4vwBTjpp4_d37xyGRkE/copy" }
+    ]
   },
   {
-    title: 'Capítulo 11: Posso ganhar dinheiro com o meu sonho',
-    activities: [
-      { title: 'Atividade Exclusiva Digital - Capítulo 11', url: 'https://docs.google.com/forms/d/e/1FAIpQLSeKAQGC2YtzLJgFdPsEJbmK2Ple5ITt-lj_556tQ9pnL6mHvQ/viewform' },
-      { title: 'Atividade 11.1', url: 'https://forms.gle/GTsUn17EajMHswP86' },
-      { title: 'Atividade 11.2', url: 'https://forms.gle/wtXLSsGAidbz5Fow5' },
-      { title: 'Atividade 11.3', url: 'https://forms.gle/sKL9N1QzJczGE5Dt9' },
-      { title: 'Atividade 11.4', url: 'https://forms.gle/fnwFM7cnyJq12Zsz6' },
-      { title: 'Exercícios do Capítulo 11', url: 'https://docs.google.com/forms/d/e/1FAIpQLSdoPL3rp9b5os8vyxUhGgip_N9JYTTsJXGJFn-i2A-WjD1JZQ/viewform' },
-    ],
+    "title": "Capítulo 10: Para onde foi meu dinheiro?",
+    "activities": [
+      { "title": "Atividade Extra de Nivelamento - Capítulo 10", "url": "https://docs.google.com/forms/d/1spzQGMBYvkhmbcNJ5MFnmKxg1nbpKqh3E8QxC5dbQdQ/copy" },
+      { "title": "Atividade 10.1", "url": "https://docs.google.com/forms/d/1g5H1BBhLZqitNqBI1yMGsMY8hkgk3xz7PXfVIy5_Yl8/copy" },
+      { "title": "Atividade 10.2", "url": "https://docs.google.com/forms/d/1-xFUUk8bT4z815i9wnvdvl2kID-33t4rwfgcTnFir0I/copy" },
+      { "title": "Atividade 10.3", "url": "https://docs.google.com/forms/d/1QZFY4FtZw_W2IyO2A5urrLR-B2pCVTTRDOSgOtnC9t0/copy" },
+      { "title": "Atividade 10.4", "url": "https://docs.google.com/forms/d/1g2oyM5o3ry4JRKyxrNrJoeO_3jHa1CWgsKO1XA3djlw/copy" },
+      { "title": "Atividade 10.5", "url": "https://docs.google.com/forms/d/1gkNAoE06QBLPGs5pnoOjX1Si87O72t1mENz1c0nafI8/copy" },
+      { "title": "Exercícios do Capítulo 10", "url": "https://docs.google.com/forms/d/1yDD0qSstoI3jTeWqTjM_2XZZ3-4VWk_HOvzpGBp5iYE/copy" }
+    ]
   },
   {
-    title: 'Capítulo 12: Como ganhar dinheiro com o celular (sem vendê-lo!)',
-    activities: [
-      { title: 'Atividade Exclusiva Digital - Capítulo 12', url: 'https://docs.google.com/forms/d/e/1FAIpQLSe2E6CTIchfQh-YmISoDbbrSuFk05twcuADJDNLJMCvnU0Ycg/viewform' },
-      { title: 'Atividade 12.1', url: 'https://forms.gle/YNXUaFy9L4FSt4Rr5' },
-      { title: 'Atividade 12.2', url: 'https://forms.gle/NdLNRJCQv4hVfjteA' },
-    ],
+    "title": "Capítulo 11: Posso ganhar dinheiro com o meu sonho",
+    "activities": [
+      { "title": "Atividade Extra de Nivelamento - Capítulo 11", "url": "https://docs.google.com/forms/d/1b0hoMkLyo4DxzdmnuuMxLFjtrWLW5ByFyhJJ7Y0reGY/copy" },
+      { "title": "Atividade 11.1", "url": "https://docs.google.com/forms/d/14imlD7n7cw4jg4fRjOE3Y5GtNkW3Mkz9n9ERfYooSIo/copy" },
+      { "title": "Atividade 11.2", "url": "https://docs.google.com/forms/d/12Jz26PKTXcDaIT7coXP2QLpiKxjP5O2x8PX1JFg_iaI/copy" },
+      { "title": "Atividade 11.3", "url": "https://docs.google.com/forms/d/1_GYHf9zBEHI3HZ5F0G6Unj3Ih0v35Z1teWOSI6qwDmE/copy" },
+      { "title": "Atividade 11.4", "url": "https://docs.google.com/forms/d/15fXFX62Vsr-oInRrwxzdcn4uBOaq535GxNUfGInMrFI/copy" },
+      { "title": "Exercícios do Capítulo 11", "url": "https://docs.google.com/forms/d/1JCcdGmgx307ty1ibA4R7oCLEB0i5WHCf3OdFYzFgBxI/copy" }
+    ]
   },
   {
-    title: 'Capítulo 13: Relembrando tudo que aprendemos',
-    activities: [
-      { title: 'Atividade Exclusiva Digital - Capítulo 13', url: 'https://docs.google.com/forms/d/e/1FAIpQLSeBz19G5mZ7I8rvQ8V9ndOrLUAxCAgaTog86sHA3RmMOi3icA/viewform' },
-      { title: 'Atividade 13.1', url: 'https://forms.gle/FCc2cGb13Qjyaej18' },
-    ],
-  },
+  title: 'Capítulo 12: Como ganhar dinheiro com o celular (sem vendê-lo!)',
+  activities: [
+    { title: 'Atividade Extra de Nivelamento - Capítulo 12', url: 'https://docs.google.com/forms/d/1b0hoMkLyo4DxzdmnuuMxLFjtrWLW5ByFyhJJ7Y0reGY/copy' },
+    { title: 'Atividade 12.1', url: 'https://docs.google.com/forms/d/1g54X5t3LqcP8djId3CL0h742Ne2MLOKA5GYamfs4xGk/copy' },
+    { title: 'Atividade 12.2', url: 'https://docs.google.com/forms/d/1YHJDkwaIVa-8JfhgoG7jU_4Q_xVbpIuXzh9tZC7PK1o/copy' },
+  ],
+},
+{
+  title: 'Capítulo 13: Relembrando tudo que aprendemos',
+  activities: [
+    { title: 'Atividade Extra de Nivelamento - Capítulo 13', url: 'https://docs.google.com/forms/d/153bOwKbbyKnclrhjx-CrQdnIRRhU6w_8-KMdFPoGfr4/copy' },
+    { title: 'Atividade 13.1', url: 'https://docs.google.com/forms/d/1bG1l_mgAYLB3jiOj6JB4ykcM7kh4eH3Cm_nVO35pKQ8/copy' },
+  ],
+},
 ];
 
 export default function Atividades() {
