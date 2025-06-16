@@ -34,7 +34,7 @@ const BooksCard = () => {
               rel="noopener noreferrer"
               className="inline-block bg-yellow-800 hover:bg-yellow-800 text-white font-semibold py-2 px-6 rounded-lg transition duration-300"
             >
-              Ver Caderno no Google Sala de Aula
+              Ver Caderno
             </a>
           </div>
 

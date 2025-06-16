@@ -2,7 +2,7 @@
 import Image from 'next/image';
 import BooksCard from './BooksCard';
 import Atividades from './Atividades';
-import GoogleClassroomBox from './GoogleClassroomBox';
+
 
 
 const TwoColumnLayoutTeacher = () => {
@@ -18,7 +18,7 @@ const TwoColumnLayoutTeacher = () => {
             <p className='max-w-2xl mx-auto text-white text-center text-lg p-4 pb-8'>Acesse os formulários Google das atividades de acordo com o capítulo desejado, inclusive conteúdo extra criado especialmente para esse ambiente digital.</p>
 
             <Atividades />
-            <GoogleClassroomBox />
+           
         </div>  
       
     </div>

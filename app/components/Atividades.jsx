@@ -156,7 +156,7 @@ export default function Atividades() {
   };
 
   return (
-    <div className="max-w-4xl mx-auto p-4 space-y-6">
+    <div className="max-w-4xl mx-auto p-4 space-y-6 mb-8">
       {chapters.map((chapter, index) => (
         <div
           key={index}
